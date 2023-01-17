@@ -188,7 +188,7 @@ p{
     margin-left: 10px;
 }
 #footer {
-    background-color: #ff4c68;
+    background-color:#fff;
     text-align: center;
 }
 
@@ -228,9 +228,11 @@ margin-bottom: 30px;
  }
 
  .footer-text {
-    color: #fff;
+    color: black;
  }
  .youtube {
-    margin-bottom: 10px
-    ;
+    margin-bottom: 10px;
+ }
+ .footer-icon {
+    margin:20px 10px ;
  }
